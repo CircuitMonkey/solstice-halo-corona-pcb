@@ -26,6 +26,6 @@ one unit ever made.  Not shared in this repository.
 
 
 ## Designed by Circuit Monkey
-Creative Commons Attribution, Share-Alike license, check license.txt for more information. Derivative of "Arduino Leonardo Reference design" (http://www.arduino.cc/en/Main/ArduinoBoardLeonardo)
+MIT License, check license.txt for more information.
 
 All text above must be included in any redistribution
